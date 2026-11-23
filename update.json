@@ -1,5 +1,6 @@
 {
-  "latest_version": "2.1.2",
-  "download_url": "https://github.com/kilkill0/QQAI/archive/refs/heads/main.zip",
-  "changelog": "面板 v2.1.2 / BOT v1.2.0 初始版本"
+  "version": "2.3.2",
+  "download_url": "https://github.com/kilkill0/QQAI/releases/download/v2.3.2/jsbot.zip",
+  "changelog": "新增长期/短期记忆库；面板单文件化；协议端自动启停",
+  "min_version": "2.3.0"
 }
