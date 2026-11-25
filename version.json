@@ -1,0 +1,5 @@
+{
+  "版本": "3.0.2",
+  "说明": "公告与更新改为实时读取本仓库；离线时用程序目录里的 公告.json 兜底。",
+  "地址": "https://github.com/kilkill0/QQAI/releases/latest"
+}
